@@ -1,6 +1,6 @@
 [oneAPI_Level_Zero_Headers]
-git-tree-sha1 = "9c1be5f31d69879a04aa89f51005c8fdf5e91402"
+git-tree-sha1 = "e2a3f92b5045833f756913a836e2f313197cd903"
 
     [[oneAPI_Level_Zero_Headers.download]]
-    sha256 = "87ab9bf91601bf320d5c092e823325d5339968f91b469bfe3700ac4e6e24e517"
-    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Level_Zero_Headers_jll.jl/releases/download/oneAPI_Level_Zero_Headers-v1.1.2+0/oneAPI_Level_Zero_Headers.v1.1.2.any.tar.gz"
+    sha256 = "b462ff0e7b4489a54011c8e6f26684a79d7df58a7d334b329047cc2b46ea4d79"
+    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Level_Zero_Headers_jll.jl/releases/download/oneAPI_Level_Zero_Headers-v1.1.2+1/oneAPI_Level_Zero_Headers.v1.1.2.any.tar.gz"
