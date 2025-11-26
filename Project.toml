@@ -1,6 +1,6 @@
 name = "oneAPI_Level_Zero_Headers_jll"
 uuid = "f4bc562b-d309-54f8-9efb-476e56f0410d"
-version = "1.13.0+1"
+version = "1.13.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
